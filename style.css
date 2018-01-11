@@ -1,0 +1,31 @@
+h1
+	{
+		font-size: 30px;
+		font-family: 'Libre Baskerville', serif;
+	}
+
+.headers
+	{
+		font-size: 24px;
+		font-family: 'Libre Baskerville', serif;
+	}
+
+a:hover
+	{
+		font-size: 35px;
+	}
+
+a:visited
+	{
+		color: black;
+	}
+
+a
+	{
+		font-family: 'Neucha', cursive;
+	}
+
+ol
+	{
+		font-family: 'Neucha', cursive;
+	}
