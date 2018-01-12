@@ -10,27 +10,28 @@ h1
 		font-family: 'Libre Baskerville', serif;
 	}
 
-a:hover
+
+
+.links:hover
 	{
 		font-size: 35px;
 	}
 
-#boldlink:hover
-	{
-		font-size: 35px;
-	}
-
-
-a:visited
+.links:visited
 	{
 		color: black;
 	}
 
+#boldlink:hover
+	{
+		font-size:35px;
+	}
+	
 #boldlink
 	{
 		font-size: 24px;
 	}
-a
+.links
 	{
 		font-family: 'Neucha', cursive;
 	}
