@@ -15,11 +15,21 @@ a:hover
 		font-size: 35px;
 	}
 
+#boldlink:hover
+	{
+		font-size: 35px;
+	}
+
+
 a:visited
 	{
 		color: black;
 	}
 
+#boldlink
+	{
+		font-size: 24px;
+	}
 a
 	{
 		font-family: 'Neucha', cursive;
@@ -28,4 +38,14 @@ a
 ol
 	{
 		font-family: 'Neucha', cursive;
+	}
+
+table
+	{
+		font-family: "Neucha", cursive;
+	}
+
+ul
+	{
+		font-family: "Neucha", cursive;
 	}
